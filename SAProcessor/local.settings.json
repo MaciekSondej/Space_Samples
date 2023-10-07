@@ -3,9 +3,9 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "SAConnectionString": "DefaultEndpointsProtocol=https;AccountName=spacetestsa111;AccountKey=Fqt0OoF4eGg4x/hK88/ustXG/VqEt1ZhABGfYVq5iAB3Qw3RwJpq+/P6mfZT2eC7qaLfrM0GIlMA+AStkXTMVQ==;EndpointSuffix=core.windows.net",
+    "SAConnectionString": "Put SA SAS",
     "FeederContainer1": "feed1",
     "FeederContainer2": "feed2",
-    "ServiceBusConnection": "Endpoint=sb://sb-spacetest-001.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=CuNW9ZGVaIJdzQ1rYth8kmCPXUdFZ/180+ASbFceurk="
+    "ServiceBusConnection": "Put SB SAS"
   }
 }
