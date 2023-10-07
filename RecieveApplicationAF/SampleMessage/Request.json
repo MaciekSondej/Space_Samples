@@ -1,0 +1,11 @@
+{
+  "name": "John",
+  "lastName": "Doe",
+  "email": "test@gmail.com",
+  "phone": "123456789",
+  "address": "1234 Main St",
+  "dateOfBirth": "01/01/2000",
+  "isVeteran": true,
+  "isoCountryOfMilitaryService": "USA",
+  "yearsOfMiltaryService": 5
+}

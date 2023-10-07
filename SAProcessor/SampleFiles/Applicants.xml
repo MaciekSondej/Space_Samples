@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Applicants>
+    <Applicant>
+        <Name>John</Name>
+        <LastName>Doe</LastName>
+        <Email>test@gmail.com</Email>
+        <Phone>123456789</Phone>
+        <Address>1234 Main St</Address>
+        <DateOfBirth>01/01/2000</DateOfBirth>
+        <IsVeteran>true</IsVeteran>
+        <IsoCountryOfMilitaryService>USA</IsoCountryOfMilitaryService>
+        <YearsOfMilitaryService>5</YearsOfMilitaryService>
+    </Applicant>
+    <Applicant>
+        <Name>Jane</Name>
+        <LastName>Doe</LastName>
+        <Email>test@gmail.com</Email>
+        <Phone>123456789</Phone>
+        <Address>1234 Main St</Address>
+        <DateOfBirth>01/01/2000</DateOfBirth>
+        <IsVeteran>false</IsVeteran>
+        <IsoCountryOfMilitaryService xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        <YearsOfMilitaryService>0</YearsOfMilitaryService>
+    </Applicant>
+</Applicants>

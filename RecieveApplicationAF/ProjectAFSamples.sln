@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRecieveAF", "APIRecieveAF.csproj", "{1A5554D4-D410-4714-BB8C-6A788517F1D5}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedModels", "..\SharedModels\SharedModels.shproj", "{90F0870C-DAE9-4232-A2E4-DB031780E774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerAF", "..\ConsumerAF\ConsumerAF.csproj", "{AE420D0E-2C84-41B3-9E8B-EE501BC16944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAProcessor", "..\SAProcessor\SAProcessor.csproj", "{1246F86B-1C1C-460C-BFBD-02D8E25405F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5554D4-D410-4714-BB8C-6A788517F1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5554D4-D410-4714-BB8C-6A788517F1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5554D4-D410-4714-BB8C-6A788517F1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5554D4-D410-4714-BB8C-6A788517F1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE420D0E-2C84-41B3-9E8B-EE501BC16944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE420D0E-2C84-41B3-9E8B-EE501BC16944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE420D0E-2C84-41B3-9E8B-EE501BC16944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE420D0E-2C84-41B3-9E8B-EE501BC16944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1246F86B-1C1C-460C-BFBD-02D8E25405F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1246F86B-1C1C-460C-BFBD-02D8E25405F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1246F86B-1C1C-460C-BFBD-02D8E25405F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1246F86B-1C1C-460C-BFBD-02D8E25405F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {857D8D04-341A-4482-BFFA-8A7E0918FF93}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\SharedModels\SharedModels.projitems*{1246f86b-1c1c-460c-bfbd-02d8e25405f8}*SharedItemsImports = 5
+		..\SharedModels\SharedModels.projitems*{1a5554d4-d410-4714-bb8c-6a788517f1d5}*SharedItemsImports = 5
+		..\SharedModels\SharedModels.projitems*{90f0870c-dae9-4232-a2e4-db031780e774}*SharedItemsImports = 13
+		..\SharedModels\SharedModels.projitems*{ae420d0e-2c84-41b3-9e8b-ee501bc16944}*SharedItemsImports = 5
+	EndGlobalSection
+EndGlobal
