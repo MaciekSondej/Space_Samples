@@ -1,0 +1,36 @@
+﻿{
+  "CrewMemberList": [
+    {
+      "Name": "TestName",
+      "LastName": "TestLastName",
+      "Email": "TestEmail",
+      "Country": "TestCountry",
+      "ProfileImageUrl": "TestProfileImageUrl",
+      "License": {
+        "LicenseId": "5653925f-db14-47b1-b0b9-8e9643da4c43",
+        "Name": "TestName",
+        "Description": "TestDescription"
+      },
+      "MemberType": {
+        "MemberTypeId": "fc8f2cc5-0451-46f1-b317-f540c24c5af7",
+        "Name": "TestName"
+      }
+    },
+    {
+      "Name": "TestName",
+      "LastName": "TestLastName",
+      "Email": "TestEmail",
+      "Country": "TestCountry",
+      "ProfileImageUrl": "TestProfileImageUrl",
+      "License": {
+        "LicenseId": "5653925f-db14-47b1-b0b9-8e9643da4c43",
+        "Name": "TestName",
+        "Description": "TestDescription"
+      },
+      "MemberType": {
+        "MemberTypeId": "fc8f2cc5-0451-46f1-b317-f540c24c5af7",
+        "Name": "TestName"
+      }
+    }
+  ]
+}

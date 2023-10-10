@@ -12,6 +12,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)Models\ApplicantsListXML.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\ApplicantsList.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\ApplicantXML.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\CrewMemberFromFileJSON.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\CrewMemberFromFileXML.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\Request.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\Response.cs" />
   </ItemGroup>
