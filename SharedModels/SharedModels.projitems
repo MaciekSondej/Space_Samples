@@ -17,4 +17,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)Models\Request.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\Response.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)SampleFiles\SampleFile.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)SampleFiles\SampleJSON.json" />
+  </ItemGroup>
 </Project>
