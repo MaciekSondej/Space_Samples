@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RecieveApplicationAF/local.settings.json
+/ConsumerAF/local.settings.json
+/SAProcessor/local.settings.json
